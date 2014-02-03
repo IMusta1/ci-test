@@ -13,6 +13,22 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  
+  <contributor>
+      <name>Idris Mustafa</name>
+      <email>idris.solutions@gmail.com</email>
+      <url>http://www.linkedin.com/pub/idris-mustafa/30/192/434</url>
+      <organization>Idris.Solutions</organization>
+      <organizationUrl>http://www.linkedin.com/pub/idris-mustafa/30/192/434</organizationUrl>
+      <roles>
+        <role>Continuous_Integrator_Engineer</role>
+      </roles>
+      <timezone>Eastern</timezone>
+      <properties>
+        <gtalk>idris.solutions@gmail.com</gtalk>
+      </properties>
+    </contributor>
+  </contributors>
 
   <dependencies>
     <dependency>
